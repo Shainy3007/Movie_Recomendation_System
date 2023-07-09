@@ -2,7 +2,7 @@
 </br>
 Uses machine learning algorithms to analyse user data and generate
 recommendations that match their interests using the python libraries nltk,pickle.
-#Overview</br>
+# Overview</br>
 The movie recommendation system project is an application designed to provide personalized
 movie recommendations to users based on their viewing history and preferences. The system
 uses machine learning algorithms to analyse user data and generate recommendations that
